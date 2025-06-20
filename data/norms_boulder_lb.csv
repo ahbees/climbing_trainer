@@ -1,0 +1,7 @@
+grade,test,low,high
+V3,weighted_pullup_5RM,+10,+25
+V6,weighted_pullup_5RM,+25,+45
+V9,weighted_pullup_5RM,+45,+70
+V3,max_hang_5s,+18,+45
+V6,max_hang_5s,+45,+77
+V9,max_hang_5s,+77,+110
